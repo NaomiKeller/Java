@@ -1,0 +1,10 @@
+Tepes,Fighter,77,Newman
+Makaron,Fighter,90,Human
+Zeriah,Fighter,90,CAST
+Misaki,Force,90,CAST
+Krul,Techer,90,Newman
+Leeroy,Techer,88,Human
+Bilbo,Techer,78,CAST
+Koko,Summoner,66,Dewman
+Tina,Fighter,2,CAST
+Nano,Summoner,88,Human
